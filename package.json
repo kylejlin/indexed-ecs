@@ -1,6 +1,6 @@
 {
   "name": "indexed-ecs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple entity-component-system library.",
   "author": "Kyle Lin",
   "license": "MIT",
@@ -19,9 +19,9 @@
     "@babel/preset-env": "^7.0.0-beta.51",
     "babel-eslint": "^8.2.3",
     "babel-loader": "^8.0.0-beta.3",
-    "babel-polyfill": "^6.26.0",
     "eslint": "^4.19.1",
     "gh-pages": "^1.2.0",
+    "idempotent-babel-polyfill": "^6.26.0",
     "nodemon-webpack-plugin": "^3.0.1",
     "serve": "^9.0.0",
     "webpack": "^4.8.3",
