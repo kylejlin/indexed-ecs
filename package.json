@@ -1,7 +1,7 @@
 {
-  "name": "eecs",
+  "name": "indexed-ecs",
   "version": "0.1.0",
-  "description": "A simple ECMAScript entity-component-system library.",
+  "description": "A simple entity-component-system library.",
   "author": "Kyle Lin",
   "license": "MIT",
   "files": [
