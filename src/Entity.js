@@ -1,6 +1,7 @@
 class Entity {
-  constructor() {
+  constructor(components = {}) {
     this.scene = null;
+    Object.assign(this, components);
   }
 
   addComponent(component) {
